@@ -2,7 +2,7 @@
 
 I run **Accessnetng**, an internet service provider based in Malate, KWASU — 30+ hostels connected, 2,600+ users on the network — and I also work as an independent ISP installation contractor. I build the software my own business and clients actually run on.
 
-📫 tiamiyubasit47@gmail.com · 📱 0903 143 8368
+🌐 [accessnetng](https://tiamiyu6.github.io/BASIT-WEBSITE/) · 📫 tiamiyubasit47@gmail.com · 📱 0903 143 8368
 
 ---
 
