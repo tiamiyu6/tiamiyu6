@@ -24,7 +24,7 @@ The public site and internal tools for my ISP business.
 - Quote & invoice builder — itemized quotes across internet plans, installation/workmanship, materials, solar systems, and web development (domains, hosting, dev charges), with print/PDF export and one-click email
 - Bookkeeping ledger — tracks income and expenses with a running balance like a bank statement, daily/weekly/monthly/all-time totals, a 7-day trend chart, and CSV/JSON backup
 
-### Longlife Hospital — care system
+### Longlife Hospital — [tiamiyu6.github.io/GMC](https://tiamiyu6.github.io/GMC/)
 
 A role-based operations system for a Lagos hospital: nurses issue patient cards, doctors write prescriptions, pharmacists dispense and manage stock, and admins see finance across the whole facility. Includes a public cost-estimate tool patients use to price out services before a visit, low-stock/expiry alerts, and a full audit trail.
 
