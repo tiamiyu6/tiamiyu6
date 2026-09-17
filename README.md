@@ -28,6 +28,15 @@ The public site and internal tools for my ISP business.
 
 A role-based operations system for a Lagos hospital: nurses issue patient cards, doctors write prescriptions, pharmacists dispense and manage stock, and admins see finance across the whole facility. Includes a public cost-estimate tool patients use to price out services before a visit, low-stock/expiry alerts, and a full audit trail.
 
+### EPUSG — [epusg.finestructure.ai](https://epusg.finestructure.ai)
+
+A community-development portal for the Erin Ile Progressive Union Support Group, Erin Ile, Kwara State — built for a hometown union to run contributions and projects transparently instead of by word of mouth.
+
+- Member registration and personal dashboards, including diaspora members abroad
+- Contribution tracking — members submit a payment (bank transfer, cash, or POS) with a reference note; admins verify or reject it, and verified payments get an official receipt code
+- Community projects shown with a funding target vs. amount raised, categorized (Infrastructure, Education, Health) and tracked from proposed through ongoing to completed
+- Executive Committee and Board of Trustees pages, and announcements emailed out to members
+
 ### Website Vulnerability Scanner
 
 A passive, non-destructive security scanner — checks TLS configuration, security headers, cookie flags, CORS setup, and common exposed files, then explains **how an attacker would use each finding** and **exactly how to fix it**, in plain English. Ships as both a CLI (`node cli.js https://example.com`) and a hosted dashboard with a shareable PDF report.
